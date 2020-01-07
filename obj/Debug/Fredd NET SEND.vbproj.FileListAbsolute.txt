@@ -1,0 +1,12 @@
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\bin\Debug\Fredd NET SEND.exe.config
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\bin\Debug\Fredd NET SEND.exe
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\bin\Debug\Fredd NET SEND.pdb
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\bin\Debug\Fredd NET SEND.xml
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd NET SEND.vbprojAssemblyReference.cache
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd_NET_SEND.NetSend.resources
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd_NET_SEND.Form2.resources
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd_NET_SEND.Resources.resources
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd NET SEND.vbproj.GenerateResource.cache
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd NET SEND.exe
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd NET SEND.xml
+E:\Photos\Fırat's Folders\Yedek Fırat\Yedek Fırat\Yedek1\Fredd NET SEND\Fredd NET SEND\obj\Debug\Fredd NET SEND.pdb

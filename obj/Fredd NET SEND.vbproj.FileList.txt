@@ -1,0 +1,12 @@
+bin\Debug\Fredd NET SEND.exe
+bin\Debug\Fredd NET SEND.pdb
+bin\Debug\Fredd NET SEND.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fredd_NET_SEND.Resources.resources
+obj\Debug\Fredd NET SEND.vbproj.GenerateResource.Cache
+obj\Debug\Fredd NET SEND.exe
+obj\Debug\Fredd NET SEND.xml
+obj\Debug\Fredd NET SEND.pdb
+obj\Debug\Fredd_NET_SEND.NetSend.resources
+bin\Debug\Fredd NET SEND.exe.config
+obj\Debug\Fredd_NET_SEND.Form2.resources
